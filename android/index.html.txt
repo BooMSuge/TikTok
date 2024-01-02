@@ -1,0 +1,166 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+  <meta name="description" content="TikTok在线安装,TikTok下载,国际版抖音下载" />
+  <meta name="keywords" content="TikTok在线安装,国际版抖音在线安装" />
+  <title>TikTok 最新版在线安装</title>
+    <link rel="shortcut icon" href="https://cxkun.com/cdn/jiesuo2/images/favicon.ico">
+    <link rel="stylesheet" href="https://cxkun.com/cdn/jiesuo2/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cxkun.com/cdn/jiesuo2/css/my.css" />
+    <link rel="stylesheet" href="https://cxkun.com/cdn/jiesuo2/css/footer.css" />
+
+   
+    
+ 
+<style type="text/css">
+        .icon {
+           width: 1em; height: 1em;
+           vertical-align: -0.12em;
+           fill: currentColor;
+           overflow: hidden;
+        }
+* {
+            box-sizing: border-box;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+.demo { 
+line-height: 45px;
+margin: 0px auto; 
+overflow: hidden; 
+width: 100%; 
+
+
+} 
+.demo ul { 
+text-align: center; 
+margin: 0 ;
+
+
+} 
+.demo li { 
+display: inline; 
+padding: 1px; 
+list-style: none; 
+
+} 
+a { 
+text-decoration: none; 
+color: #03508f;
+
+ user-select: none;
+} 
+
+a:link {
+text-decoration: none; 
+}
+
+a:hover {
+color: #ff0000;
+text-decoration: none; 
+}
+
+.header {
+box-shadow: 0px 1px 8px rgba(0, 0, 0, 0.1);
+color: #FFF; 
+font: 16px/1.5 Tahoma,Arial; 
+}
+
+ .footer {
+  margin-top: -40px;
+  height: 40px;z-index: 9999;
+  padding: 10px 0 15px;
+}
+
+</style>
+<div class="wrap">
+        <div class="main">
+      <div class="topbread" style="margin-bottom: 20px;">
+          <div class="container">
+                    <h3 class="text-center">TikTok安卓版在线安装</h3>  <hr/>
+                 
+          </div>
+      </div>
+      <div style="margin-top: 20px; margin-bottom: 10px;">
+            <div style="text-align:center;">
+          <div class="polaroid">
+           
+                 <img src="https://cxkun.com/cdn/jiesuo2/images/tk33.gif" width="120" height="120" />
+         
+                    </div>
+                <div class="info" id="ul">
+                                             
+      <p>安装后需要使用代理上网工具才能观看</p>
+      <p>自带增强插件，低端设备请安装第三个版本</p>   
+               
+          </div>
+                <div style="padding-top:20px;">
+                        <div class="id" id="id" style="display: none;text-align: left;">
+              <div style="text-align:left;">
+             <p style="text-align:center;">正在安装……(请返回桌面查看)</p>
+              </div>
+
+                             <br><p><a id="refresh">刷新</a><p> <hr/>
+             
+                                <p>⚠️ 已经内置增强插件，无需拔卡观看</p>
+                                <hr/>
+                                <p>💡 切换语言（右上角设置-Language）</p>
+                                <hr/>
+                                <p>⁉️️ 调用插件（设置-Change Region）</p>
+                                <hr/>
+                        </div>
+                     
+<span id="checkinfo " >
+<a href="https://xz.cxkun.com/apk/TikTok_31.7.3_v8a.apk" class="btn btn-success btn-lg btn-circle">
+<svg class="icon" aria-hidden="true"><use xlink:href="#icon-android"></svg> 在线安装 <span style="font-size: 14px;"> (v31.7.3)</span></a>
+<br><br>
+
+<span id="checkinfo " >
+<a href="https://xz.cxkun.com/apk/TikTok_30.8.4_armv8a.apk" class="btn btn-success btn-lg btn-circle">
+<svg class="icon" aria-hidden="true"><use xlink:href="#icon-android"></svg> 在线安装 <span style="font-size: 14px;"> (v30.8.4)</span></a>
+<br><br>                   
+          
+<span id="checkinfo " >
+<a href="https://xz.cxkun.com/apk/Tiktok_27.3.1_armv7a.apk" class="btn btn-success btn-lg btn-circle">
+<svg class="icon" aria-hidden="true"><use xlink:href="#icon-android"></svg> 在线安装 <span style="font-size: 14px;"> (v27.3.1)</span></a>
+ <hr>   
+                    
+                        <p>华为的鸿蒙系统设置下，需要关闭纯净模式，</p>
+                        <p>“设置”-“系统和更新”-“纯净模式”内选择关闭。</p>
+
+<a href="https://cons880.top"  target="_blank" class="fan2">IOS版本下载</a><a href="https://r4f.cc/"  target="_blank" class="fan3">上网节点</a>
+ <hr>
+<script type="text/javascript" src="https://cxkun.com/cdn/jiesuo2/js/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="https://cxkun.com/cdn/jiesuo2/js/my.js"></script>
+<script type="text/javascript" src="https://cxkun.com/cdn/jiesuo2/js/vue.min.js"></script>
+<script type="text/javascript" src="https://cxkun.com/cdn/jiesuo2/js/font.js"></script>
+
+<script>
+    var username = "";
+    var password = "";
+    document.getElementById("account").innerHTML=username;
+    document.getElementById("password").innerHTML=password;
+</script>
+
+<script>
+    
+    var app= new Vue({
+      el:'#app',
+      data:{
+        show:true
+      },
+      methods:{
+        onclik:function(){
+          this.show=!this.show;
+        }
+      }
+      
+    })
+    
+</script>
+</body>
+</html>
